@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/7b0b1054-139d-4caa-a4b2-5ae6fd2d7d7c/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/login-node-azure",
+    "appService.deploySubpath": "."
+}
